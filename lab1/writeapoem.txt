@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Alma</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1> Alma </h1>
+    <p> alma ketty domalap <br>
+    koshe boiyn aralap <br>
+    kim almany tapady <br>
+    sol oiynnan shygady
+    </p>
+    </body>
+</html>

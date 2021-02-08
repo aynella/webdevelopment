@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Project: Travel webpage</title>
+        <style>
+            h1 {
+                color:rgb(79, 24, 79);
+            }
+            h2 {
+                background-color:rgb(71, 47, 212);
+            }
+            body {
+                background-color:rgb(219, 207, 96);
+            }
+            #info {
+                color:yellow;
+            }
+            .koreaaa{
+                color:rgb(222, 83, 49);
+            }
+            #reasons {
+                color:rgb(239, 242, 241);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Korea!</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Korea-Gyeongju-Bulguksa-33.jpg/225px-Korea-Gyeongju-Bulguksa-33.jpg" alt="korean castle" width="399"> 
+        <h2 id="info"> About Korea</h2>
+        <p class="koreaaa">
+        <em>Korea</em>  is a region in East Asia. <strong>Since 1945</strong> it has been divided into two sovereign states: North Korea (officially the "Democratic People's Republic of Korea") and South Korea (officially the "Republic of Korea"). Korea consists of the Korean Peninsula, Jeju Island, and several minor islands near the peninsula. It is bordered by China to the northwest and Russia to the northeast. It is separated from Japan to the east by the Korea Strait and the Sea of Japan (East Sea).</p>
+        <h2 id="reasons">Why you should visit Korea</h2>
+        <ol class ="koreaaa">
+            <li>because its culture
+            <li>food
+            <li>people
+        </ol>
+            
+    
+    </body>
+</html>
